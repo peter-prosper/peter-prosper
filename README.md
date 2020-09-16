@@ -27,7 +27,7 @@ Since 2004, I have been browsing for interactive development and creating modern
 
 ### I have had the opportunity to work with several technologies like 🔨
 
- - Web Technologie _(ActionScript, Javascript, JQuery, ReactJS, TypeScript)_
+ - Web Technologie _(ActionScript, Javascript, JQuery, ReactJS, TypeScript, WebGL, ElectronJS)_
  - Arduino / Touch Board by Bare Conductive _(C, C#, Johnny-Five)_
  - Mobile Android & Ios _(Cordova, Ionic, ReactNative)_
  - Unreal Engine / Unity _(C / C#)_
@@ -36,10 +36,14 @@ Since 2004, I have been browsing for interactive development and creating modern
 ### What I'm focusing on 🐱‍👤💻
 
 Currently improving my **[JamStack](https://jamstack.wtf/)** skill with Strapi JS, Gatsby JS and ReactNative.
+I am gradually learning to use **Flutter** from _Google_ 
 
-### My favorite tools 🧰
+### My non-exhaustive tool list 🧰
 
-- Visual Studio Code
+- Visual Studio Code with some useful extensions
+- Docker to encapsulate my projects
+- NodeJS to make some useful tools I need
+- ...
 
 
 ### Find me too 🌎
