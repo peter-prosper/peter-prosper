@@ -7,11 +7,11 @@ Since 2004, I have been browsing for interactive development and creating modern
 
 ### I have had the opportunity to work with several technologies like 🔨
 
- - Web Technologie _(ActionScript, Javascript, JQuery, ReactJS, TypeScript, WebGL, ElectronJS)_
- - Arduino / Touch Board by Bare Conductive _(C, C#, Johnny-Five)_
- - Mobile Android & Ios _(Cordova, Ionic, ReactNative)_
- - Unreal Engine / Unity _(C / C#)_
- - Python for Iot _(RaspBerry, esp32 and esp8266, MicroPython, MQTT Protocole)_
+ - Web Technologie _( ActionScript, Javascript, JQuery, ReactJS, TypeScript, WebGL, ElectronJS )_
+ - Arduino / Touch Board by Bare Conductive _( C, C#, Johnny-Five )_
+ - Mobile Android & Ios _( ReactNative with Cordova, Expo.io, Ionic )_
+ - Unreal Engine / Unity _( C / C# )_
+ - Python for Iot _( RaspBerry pi 2,3,4, Esp32 and Esp8266 with MicroPython, MQTT Protocole,... )_
 
 ### What I'm focusing on 🐱‍👤💻
 
