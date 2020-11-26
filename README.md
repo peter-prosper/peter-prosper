@@ -3,7 +3,7 @@
 
 I work as a senior developer with playful design skills (interactive designer). I´m based in Paris, France.
 
-Since 2004, I have been browsing for interactive development and creating modern and user-friendly interfaces. I have had the chance to participate in many projects with technical challenges, contributing to make this obscure world accessible to the design expert through code. 🌱
+Since 2004, I have been interested in interactive development and the creation of modern and user-friendly interfaces. I have had the opportunity to participate in many projects involving technical and strategic challenges, contributing to making the dark world of code accessible to non-technical experts through the vulgarization and realization of their projects. 🌱
 
 ### I have had the opportunity to work with several technologies like 🔨
 
