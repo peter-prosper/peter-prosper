@@ -26,7 +26,6 @@ I am gradually learning to use **Flutter** from _Google_
 - Visual Studio Code with some useful extensions
 - Docker to encapsulate my stack
 - NodeJS to make some useful tools I need
-- ...
 
 
 ### Find me too 🌎
